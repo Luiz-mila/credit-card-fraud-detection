@@ -275,9 +275,9 @@ python visualizations/create_visualizations.py
 **Luiz Milaré**  
 Data Analyst | SQL & Python Specialist
 
-📧 [your.email@example.com](luizmilare958@gmail.com)  
-💼 [LinkedIn](www.linkedin.com/in/luiz-milar%C3%A9-a5869519a/)
-🐙 [GitHub](https://github.com/Luiz-mila)  
+📧 Email: luizmilare958@gmail.com
+💼 LinkedIn: www.linkedin.com/in/luiz-milar%C3%A9-a5869519a/
+🐙 GitHub: https://github.com/Luiz-mila  
 
 ---
 
