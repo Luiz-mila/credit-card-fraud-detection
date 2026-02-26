@@ -270,14 +270,22 @@ python visualizations/create_visualizations.py
 
 ---
 
-## 👤 Author
+## 👤 About the Author
 
 **Luiz Milaré**  
-Data Analyst | SQL & Python Specialist
+Data Analyst | SQL, Python & Business Performance Analytics  
+
+Data professional focused on transforming complex datasets into strategic insights.  
+Experienced in revenue analysis, performance metrics, and behavioral pattern detection across large-scale datasets.
+
+Currently deepening expertise in modern data warehousing and advanced SQL techniques.
 
 📧 Email: luizmilare958@gmail.com
+
 💼 LinkedIn: www.linkedin.com/in/luiz-milar%C3%A9-a5869519a/
+
 🐙 GitHub: https://github.com/Luiz-mila  
+
 
 ---
 
