@@ -280,9 +280,9 @@ Experienced in revenue analysis, performance metrics, and behavioral pattern det
 
 Currently deepening expertise in modern data warehousing and advanced SQL techniques.
 
-📧 Email: luizmilare958@gmail.com
+📧 Email: milahercu@gmail.com
 
-💼 LinkedIn: www.linkedin.com/in/luiz-milar%C3%A9-a5869519a/
+💼 LinkedIn: www.linkedin.com/in/luiz-milaré/
 
 🐙 GitHub: https://github.com/Luiz-mila  
 
